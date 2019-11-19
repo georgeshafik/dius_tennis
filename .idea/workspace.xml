@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65240e32-d056-43c2-bc89-5f1a93f40cd4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TjjvIdestm0m5vpAsit1IYGPsC" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SimulatorTennisMatchTest">
+    <configuration name="SimulatorTennisMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="au.com.spirit.SimulatorTennisMatch" />
+      <module name="dius_tennis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="au.com.spirit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulatorTennisMatchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dius_tennis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="au.com.spirit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="au.com.spirit" />
+      <option name="MAIN_CLASS_NAME" value="au.com.spirit.SimulatorTennisMatchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulatorTennisMatchTest.game1MatchPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dius_tennis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="au.com.spirit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="au.com.spirit" />
+      <option name="MAIN_CLASS_NAME" value="au.com.spirit.SimulatorTennisMatchTest" />
+      <option name="METHOD_NAME" value="game1MatchPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulatorTennisMatchTest.game2MatchPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dius_tennis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="au.com.spirit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="au.com.spirit" />
+      <option name="MAIN_CLASS_NAME" value="au.com.spirit.SimulatorTennisMatchTest" />
+      <option name="METHOD_NAME" value="game2MatchPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulatorTennisMatchTest.game3MatchPlayTieBreaker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dius_tennis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="au.com.spirit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="au.com.spirit" />
+      <option name="MAIN_CLASS_NAME" value="au.com.spirit.SimulatorTennisMatchTest" />
+      <option name="METHOD_NAME" value="game3MatchPlayTieBreaker" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimulatorTennisMatchTest" />
+        <item itemvalue="JUnit.SimulatorTennisMatchTest.game3MatchPlayTieBreaker" />
+        <item itemvalue="JUnit.SimulatorTennisMatchTest.game2MatchPlay" />
+        <item itemvalue="JUnit.SimulatorTennisMatchTest.game1MatchPlay" />
+        <item itemvalue="Application.SimulatorTennisMatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65240e32-d056-43c2-bc89-5f1a93f40cd4" name="Default Changelist" comment="" />
+      <created>1573980627850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573980627850</updated>
+      <workItem from="1573980631717" duration="15841000" />
+      <workItem from="1574044654585" duration="12386000" />
+      <workItem from="1574069525932" duration="5426000" />
+      <workItem from="1574108870948" duration="6283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="tennisMatch.score()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dius_tennis$au_com_spirit_in_dius_tennis.ic" NAME="au.com.spirit in dius_tennis Coverage Results" MODIFIED="1574109373635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>au.com.spirit.*</FILTER>
+    </SUITE>
+  </component>
+</project>
