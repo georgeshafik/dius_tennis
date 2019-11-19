@@ -10,6 +10,9 @@ public class SimulatorTennisMatch {
 
     public static void main(String[] args) {
 
+        try {
+
+
         List<Player> players = new ArrayList<Player>();
 
         Player player1 = new Player("John", "Smith", 21, 10, PlayerPosition.PLAYER_ONE);
@@ -335,5 +338,9 @@ public class SimulatorTennisMatch {
 
 
         System.out.println("Match: 1 Player-1(Wins): " + tennisMatch.getPlayer1GameWins() + " Player-2(Wins): " + tennisMatch.getPlayer2GameWins() );
+
+        } catch (Exception ex ) {
+            System.out.println("Exception raised in main " + ex);
+        }
     }
 }
